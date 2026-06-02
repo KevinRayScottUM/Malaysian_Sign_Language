@@ -1,0 +1,10 @@
+{
+  "best_epoch": 57,
+  "best_val_loss": 0.47639872272809347,
+  "hidden_size": 128,
+  "num_layers": 2,
+  "dropout": 0.35,
+  "input_size": 258,
+  "seq_len": 30,
+  "num_classes": 90
+}

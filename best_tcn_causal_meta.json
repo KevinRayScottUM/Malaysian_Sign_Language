@@ -1,0 +1,12 @@
+{
+  "best_epoch": 74,
+  "best_val_loss": 0.42674132784207663,
+  "seq_len": 30,
+  "input_size": 258,
+  "num_classes": 90,
+  "model": "CausalTCNClassifier",
+  "channels": 256,
+  "levels": 6,
+  "kernel_size": 3,
+  "dropout": 0.25
+}

@@ -1,0 +1,5 @@
+TIMESTAMP,SOURCE,DATA_LOG
+2025-12-30 01:47:55,CLINICIAN,what is the condition in which the ventricles are enlarged as seen in this image?
+2025-12-30 01:47:55,SYSTEM,"ANALYSIS RESULT: OPEN (CONFIDENCE: 8.92%)
+
+[REFERENCE TRUTH: hydrocephalus]"

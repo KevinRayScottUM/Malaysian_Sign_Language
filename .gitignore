@@ -1,0 +1,24 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local Gradio runtime files
+.gradio/
+
+# Large raw dataset: keep only the download note.
+BIM Dataset V3/*
+!BIM Dataset V3/README.md
+
+# Generated processed arrays. Rebuild them from the dataset split scripts.
+NPY Dataset/*.npy
+NPY Dataset/*.npz
+
+# Runtime/demo outputs
+demo_outputs/
+*.mp4
+*.mov
+*.avi
+*.webm
