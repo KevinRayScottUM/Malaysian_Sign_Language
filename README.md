@@ -54,7 +54,7 @@ The raw `BIM Dataset V3` videos are large and are not stored in this repository.
 
 Download link:
 
-https://1024terabox.com/s/1vmIwg6wGUwRmZfe9UhB4qQ
+[https://1024terabox.com/s/1vmIwg6wGUwRmZfe9UhB4qQ](https://1024terabox.com/s/1_PK4SNfRcAT_XyRvmE7ygw)
 
 After downloading, extract the gesture folders into `BIM Dataset V3/`.
 
